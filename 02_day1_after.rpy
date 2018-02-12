@@ -16,7 +16,7 @@ translate ptbr day1_after_01_tig_d690ad54:
 translate ptbr day1_after_01_tig_062d49d0:
 
     # lpdcat cry_2 "\"Aww~ This is too cruel Liao!\" "
-    lpdcat cry_2 "\"Aww~ Isso é cruel demais, Liao!\" "
+    lpdcat cry_2 "\"Aww~ Isso muito cruel, Liao!\" "
 
 # game/script/02_day1_after.rpy:32
 translate ptbr day1_after_01_tig_2d0da8a1:
