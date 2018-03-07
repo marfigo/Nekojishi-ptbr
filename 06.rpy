@@ -1,16 +1,16 @@
-﻿# TODO: Translation updated at 2017-11-29 21:34
+# TODO: Translation updated at 2017-11-29 21:34
 
 # game/script/06.rpy:12
 translate ptbr s06_686be3a3:
 
     # b "Since the last time I spoke with Randolph, I've been thinking about trying some different method with the cats."
-    b "Desde minha ultima conversa com Randolph, eu venho pensando sobre tentar um método diferente com os felinos. "
+    b "Desde minha última conversa com Randolph, eu venho pensando sobre tentar um método diferente com os felinos. "
 
 # game/script/06.rpy:14
 translate ptbr s06_2d1ad297:
 
     # b "I fear that if I just go and ask them, they might think that I mean to help out, and then I won't be able to refuse."
-    b "Eu tenho receio de que, se eu simplesmente perguntar para eles, eles acabem pensando que eu estou oferecendo ajuda, e aí não estarei em posição para negar. "
+    b "Tenho receio de que, se eu simplesmente perguntar para eles, eles acabem pensando que eu estou oferecendo ajuda, e aí não estarei em posição para negar."
 
 # game/script/06.rpy:16
 translate ptbr s06_1aeb43ba:
@@ -58,7 +58,7 @@ translate ptbr s06_fdec9179:
 translate ptbr s06_d0ebcb4a:
 
     # avt "Um, well... I just have something on my mind..."
-    avt "Umm, bem... Eu só estava pensando numa coisa..."
+    avt "\"Umm, bem... Eu só estava pensando numa coisa...\" "
 
 # game/script/06.rpy:43
 translate ptbr s06_e0383bb8:
@@ -76,7 +76,7 @@ translate ptbr s06_e05a28c8:
 translate ptbr s06_55d0934e:
 
     # b "I couldn't imagine anyone saying such things about textbooks. Aren't they all so boring?"
-    b "Eu não consiguia imaginar alguém falando assim de livros didáticos. Não são todos um tédio?"
+    b "Eu não conseguia imaginar alguém falando assim de livros didáticos. Não são todos um tédio?"
 
 # game/script/06.rpy:54
 translate ptbr s06_64930abf:
@@ -114,7 +114,7 @@ translate ptbr s06_9024528c:
 translate ptbr s06_827570d6:
 
     # tig surprise "\"The internet? Can we find things as informative as these books?\" "
-    tig surprise "\"A internet? Podemos encontrar coisas tão utéis como as que há nos livros?\" "
+    tig surprise "\"A internet? Podemos encontrar coisas tão interessantes como as que há nos livros?\" "
 
 # game/script/06.rpy:68
 translate ptbr s06_7fa9ba32:
@@ -188,7 +188,7 @@ translate ptbr s06_dd1b6343:
 translate ptbr s06_7e0455c6:
 
     # avt "\"Must I go home to be a Jitong? Isn't there any other way?\" "
-    avt "\"Será que eu preciso ir para casa e fazer o papel de Jitong? Não existe algum outro jeito?\" "
+    avt "\"Será que eu preciso estar na casa dos meus pais para fazer o papel de Jitong? Não existe algum outro jeito?\" "
 
 # game/script/06.rpy:106
 translate ptbr s06_8dae540a:
@@ -196,7 +196,9 @@ translate ptbr s06_8dae540a:
     # tig normal "\"Well, you do have the rare power to channel the spirits. It's a power not many people have. It would be a shame of you didn't use it.\" "
     # tig normal "\"I am sure that both your family and the Holy Mother would be happy if you chose to try it.\" "
     # tig normal "\"I know that you wish to stay in Taipei, but you needn't make any decisions now, especially since you still have many semesters until graduation.\" "
-    tig normal "\"Bom, é fato que tu tens o raro poder de canalizar espíritos. É um poder que poucas pessoas têm. Seria uma pena se não o usasses.\" " 
+    tig normal "\"Bom, é fato que tu tens o raro poder de canalizar espíritos. É um poder que poucas pessoas possuem. Seria uma pena se não o usasses.\" " 
+    tig normal "\"Estou certo de que tanto a tua família quanto a Santa Mãe ficariam felizes se tentasses desses uma chance à tua vocação.\" "
+    tig normal "\"Eu sei que queres ficar em Taipei, mas não há pressa para decidir agora, especialmente com tantos semestres pela frente antes da graduação.\" "
 
 # game/script/06.rpy:108
 translate ptbr s06_1d554d77:
@@ -214,14 +216,14 @@ translate ptbr s06_36a9721a:
 translate ptbr s06_3245a812:
 
     # avt "\"So it's true that I must go home?\" "
-    avt "\"Então a veradade é que eu devo voltar para casa?\" "
+    avt "\"Então a verdade é que eu devo voltar para casa?\" "
 
 # game/script/06.rpy:116
 translate ptbr s06_03a33fe7:
 
     # tig normal "\"I know Liao doesn't want to go back, and if you never do, then I would be supportive, but to tell you the truth I think that it would be a shame for someone with your powers to not be a Jitong.\" "
     # tig normal "\"Imagine how your parents would react if they knew. The other guardian tigers surely do wish to see you become a Jitong.\" "
-    tig normal "\"Eu sei que Liao não quer retornar; e se tu não o fizeres, então eu seria compreensivo e o apoiaria; mas, para ser honesto contigo, penso que seria uma pena que alguém com os teus poders não se tornasse um Jitong.\" "
+    tig normal "\"Eu sei que Liao não quer retornar; e se tu não o fizeres, então eu seria compreensivo e o apoiaria; mas, para ser honesto contigo, penso que seria um desperdício que alguém com os teus poders não se tornasse um Jitong.\" "
     tig normal "\"Imagina como teus pais reagiriam se soubessem. Além do mais, os outros tigres guardiões certamente desejam que te tornes um Jitong.\" "
 
 # game/script/06.rpy:118
@@ -412,7 +414,7 @@ translate ptbr s06_6670da25:
 translate ptbr s06_1258599b:
 
     # avt "\"Yes, I know what an oracle does, but I physically be there? What kind of problems do you need me to fix anyway? You know that I don't want to go.\" "
-    avt "\"Sim, eu sei o que um  oráculo faz, mas estar lá fisicamente? Que tipo de problemas você precisa que eu resolva? Você sabe que eu não quero ir.\" "
+    avt "\"Sim, eu sei o que um oráculo faz, mas estar lá fisicamente? Que tipo de problemas você precisa que eu resolva? Você sabe que eu não quero ir.\" "
 
 # game/script/06.rpy:204
 translate ptbr s06_a2ec2062:
@@ -478,7 +480,7 @@ translate ptbr s06_21eb6419:
 translate ptbr s06_c9dc8ac1:
 
     # b "\"I get that some things need to be discussed in person, but not all things. It seems like Leopard needs me to help get messages across. Perhaps I can pass those messages from here.\" "
-    b "\"Eu entendo que algumas coisas têm que ser discutidas cara-a-cara, mas não todas. Parece que você precisa de mim para passar algumas mensagens. Talvez eu possa fazer isso daqui.\" "
+    b "Eu entendo que algumas coisas têm que ser discutidas cara-a-cara, mas não todas. Parece que o Leopardo precisa de mim para passar algumas mensagens. Talvez eu possa fazer isso daqui mesmo."
 
 # game/script/06.rpy:239
 translate ptbr s06_a170659b:
@@ -502,7 +504,7 @@ translate ptbr s06_041c0d8d:
 translate ptbr s06_6e957ef1:
 
     # b "\"I actually am resting. What does Senpai mean?\" "
-    b "\"Na verdade, eu já estou descansando. O que o Senpai quer dizer?\" "
+    b "Na verdade, eu já estou descansando. O que o Senpai quer dizer?"
 
 # game/script/06.rpy:266
 translate ptbr s06_cc89f667:
@@ -648,7 +650,7 @@ translate ptbr s06_d7121180:
 translate ptbr s06_25305bd6:
 
     # b "Clouded Leopard seems to be thinking deeply about something...{w=0.5} I wonder what."
-    b "O Leopardo Nebuloso aparenta estar refletindo profundamente sobre alguma coisa...{w=0.5} Eu queria saber o quê."
+    b "O Leopardo-nebuloso aparenta estar refletindo profundamente sobre alguma coisa...{w=0.5} Eu queria saber o quê."
 
 # game/script/06.rpy:362
 translate ptbr s06_5ff062ab:
@@ -726,7 +728,7 @@ translate ptbr s06_ba1b9e9d:
 translate ptbr s06_8cf7f6c6:
 
     # lpdcat serious "\"Well...{w=0.5} it doesn't work like that. There are temple ceremonies to be performed, and how will you encourage people to come worship if you aren't even there?\" "
-    lpdcat serious "Olha...{w=0.5} É que não funciona assim. O templo tem cerimônias para serem ministradas. Fora que como você vai encorajar as pessoas a vir venerar se você nem estiver lá?\" "
+    lpdcat serious "\"Olha...{w=0.5} É que não funciona assim. O templo tem cerimônias para serem ministradas. Fora que como você vai encorajar as pessoas a vir venerar se você nem estiver lá?\" "
 
 # game/script/06.rpy:416
 translate ptbr s06_e50039ef:
@@ -930,7 +932,7 @@ translate ptbr s06_7b068d1a:
 translate ptbr s06_fd262606:
 
     # b "I didn't want to complain, but it really was a pain to watch him read all of these boring things that I didn't even understand... if only he didn't need my hands to work the computer..."
-    b "Eu não queria reclamar, mas era mesmo um saco ficar vendo ele ler todos aqueles artigos maçantes sobre coisas que eu não entendia... Se ele não precisasse das minhas mãos para mexer no computador..."
+    b "Eu não queria reclamar, mas era mesmo um saco ficar vendo ele ler todos aqueles artigos maçantes sobre coisas que eu não entendia... Se ao menos ele não precisasse das minhas mãos para mexer no computador..."
 
 # game/script/06.rpy:539
 translate ptbr s06_3cfbc7b8:
@@ -954,7 +956,7 @@ translate ptbr s06_14064921:
 translate ptbr s06_5d4e87f8:
 
     # lpdcat pout "\"Say what? Why would I want to help? The old man is always pushing me to leave!\" "
-    lpdcat pout "\"É o quê? E Por que eu iria querer ajudar? O vovô aí fica sempre me mandando embora!\" "
+    lpdcat pout "\"É o quê? E por que eu iria querer ajudar? O vovô aí fica sempre me mandando embora!\" "
 
 # game/script/06.rpy:556
 translate ptbr s06_3e3758c9:
@@ -996,7 +998,7 @@ translate ptbr s06_02_dont_convince_42279666:
 translate ptbr s06_02_dont_convince_2423a0b7:
 
     # tig frown "\"That little kitten should leave. The longer he stays the more troublesome things become.\" "
-    tig frown "\"Aquele filhote deveria ir embora. Quanto mais ele fica, masi problemáticas ficam as coisas.\" "
+    tig frown "\"Aquele filhote deveria ir embora. Quanto mais ele fica, mais problemáticas ficam as coisas.\" "
 
 # game/script/06.rpy:614
 translate ptbr s06_02_dont_convince_90276946:
@@ -1044,7 +1046,7 @@ translate ptbr s06_02_dont_convince_e326ceb8:
 translate ptbr s06_02_convince_09636209:
 
     # avt "\"What if you tried to look at things from a different angle?\" "
-    avt "\"E se eu tentasse ver as coisas de um ângulo diferente?\" "
+    avt "\"E se vocês tentassem ver as coisas de um ângulo diferente?\" "
 
 # game/script/06.rpy:639
 translate ptbr s06_02_convince_11dd25cb:
@@ -1086,7 +1088,7 @@ translate ptbr s06_02_convince_338205fe:
 translate ptbr s06_02_convince_91cd0bd1:
 
     # avt "\"Just think about it, OK? You don't have to start cooperating right now, but just promise me you'll think about it.\" "
-    avt "Só pensa nisso, tá legal? Vocês não precisam cooperar agora, mas só me promete que vai pensar nisso.\" "
+    avt "\"Só pensa nisso, tá legal? Vocês não precisam cooperar agora, mas só me promete que vai pensar nisso.\" "
 
 # game/script/06.rpy:657
 translate ptbr s06_02_convince_192b3262:
@@ -1152,7 +1154,7 @@ translate ptbr s06_03_dce8c6d2:
 translate ptbr s06_03_eb5a79e3:
 
     # avt "\"Ah? Bro?\" "
-    avt "Ah? mano?\" "
+    avt "\"Ah? mano?\" "
 
 # game/script/06.rpy:692
 translate ptbr s06_03_40ee70e8:
@@ -1164,13 +1166,13 @@ translate ptbr s06_03_40ee70e8:
 translate ptbr s06_03_ffb4a25a:
 
     # avt "\"Because you almost never call; I thought it was Dad.\" "
-    avt "\"É porque você quase nunca liga; eu pensei que fosse o pai.\" "
+    avt "\"É porque você quase nunca me liga; eu pensei que fosse o pai.\" "
 
 # game/script/06.rpy:699
 translate ptbr s06_03_53341a76:
 
     # phone "\"Normally I wouldn't just call, but Dad told me that you have seen a guardian tiger...\" "
-    phone "\"É, normalmente eu não ligaria, mas o pai me disse que você andava vendo tigres guardiões...\" "
+    phone "\"É, normalmente eu não te ligaria, mas o pai me disse que você andava vendo tigres guardiões...\" "
 
 # game/script/06.rpy:701
 translate ptbr s06_03_29e87311:
@@ -1230,7 +1232,7 @@ translate ptbr s06_04_lie_f55da30a:
 translate ptbr s06_04_lie_c5778902:
 
     # phone "\"Well, after your last talk with Dad, he said very strictly not to go around talking about this kind of thing. I thought something may have happened. It seems like it's nothing.\" "
-    phone "\"Bem, depois da sua última conversa com o pai, ele foi bem severo quando me disse pra não sair falando nisso por aí. Eu pensei que algo tivesse acontecido. Parece que não foi nada.\" "
+    phone "\"Bem, depois da sua última conversa com o pai, ele foi bem severo quando me disse pra não sair falando disso por aí. Eu pensei que algo tivesse acontecido. Parece que não foi nada.\" "
 
 # game/script/06.rpy:755
 translate ptbr s06_04_lie_c423e90f:
@@ -1272,7 +1274,7 @@ translate ptbr s06_04_lie_c44e5372:
 translate ptbr s06_04_lie_046b91a3:
 
     # avt "\"Yeah, OK. See you later, Bro.\" "
-    avt "É, OK. Até mais, mano.\" "
+    avt "\"É, OK. Até mais, mano.\" "
 
 # game/script/06.rpy:778
 translate ptbr s06_04_lie_941b9d89:
@@ -1380,7 +1382,7 @@ translate ptbr s06_04_lie_89e5fec0:
 translate ptbr s06_04_lie_76adc9fd:
 
     # lpdcat pout "\"It's always chicken! Everyday! A leopard cat like me can't tolerate the same thing every day, even if it's chicken.\" "
-    lpdcat pout "\"É sempre frango! Todo santo dia! um gato leopardo como eu não aguenta comer a mesma coisa toda vez, mesmo se for frango.\" "
+    lpdcat pout "\"É sempre frango! Todo santo dia! um gato-leopardo como eu não aguenta comer a mesma coisa toda vez, mesmo se for frango.\" "
 
 # game/script/06.rpy:828
 translate ptbr s06_04_lie_b9479bb0:
@@ -1392,7 +1394,7 @@ translate ptbr s06_04_lie_b9479bb0:
 translate ptbr s06_04_lie_320799c5:
 
     # lpdcat not_reconcile "The old man is bullying me again!" with vshake
-    lpdcat not_reconcile "O velhote tá fazendo bullying comigo de novo!" with vshake
+    lpdcat not_reconcile "\"O velhote tá fazendo bullying comigo de novo!\" " with vshake
 
 # game/script/06.rpy:837
 translate ptbr s06_04_lie_13f5f71f:
@@ -1416,7 +1418,7 @@ translate ptbr s06_04_confess_1616f589:
 translate ptbr s06_04_confess_7ec6775d:
 
     # avt "\"No, I mean, how could I?\" "
-    avt "\"Não, quer dizer, como eu poderia?\" "
+    avt "\"Não, quer dizer, como eu saberia?\" "
 
 # game/script/06.rpy:856
 translate ptbr s06_04_confess_91fbee64:
@@ -1578,7 +1580,7 @@ translate ptbr s06_04_confess_a62994f4:
 translate ptbr s06_04_confess_975cea33:
 
     # phone "\"Really? So... why not give him a name?\" "
-    phone "Ah, é? Então... por que não dar um nome pra ele?\" "
+    phone "\"Ah, é? Então... por que não dar um nome pra ele?\" "
 
 # game/script/06.rpy:923
 translate ptbr s06_04_confess_6928fc5c:
@@ -1620,7 +1622,7 @@ translate ptbr s06_04_confess_6d647b03:
 translate ptbr s06_04_confess_9eb42f3e:
 
     # avt "\"Oh? But Senpai...\" "
-    avt "\"ah é? Mas Senpai...\" "
+    avt "\"Ah é? Mas Senpai...\" "
 
 # game/script/06.rpy:937
 translate ptbr s06_04_confess_6a1c9bf7:
@@ -1704,7 +1706,7 @@ translate ptbr s06_04_confess_aa95d370:
 translate ptbr s06_04_confess_ff691c02:
 
     # b "\"If my big bro asks about the possession rituals, or about worship, it could help me better understand things, but on the other hand...\" "
-    b "\"Se meu irmão perguntar sobre rituais de possessão, ou sobre veneração, isso poderia me ajudar a entender as coisas; mas, por outro lado...\" "
+    b "Se meu irmão perguntar sobre rituais de possessão, ou sobre veneração, isso poderia me ajudar a entender as coisas; mas, por outro lado..."
 
 # game/script/06.rpy:972
 translate ptbr s06_04_confess_d7d2c7a7:
@@ -1764,7 +1766,7 @@ translate ptbr s06_04_confess_cb0b3e96:
 translate ptbr s06_04_confess_ff52749a:
 
     # b "It was Clouded Leopard who revealed Tiger to me. If Leopard had run over to my brother, then it could have been an even bigger problem."
-    b "Mas foi o Leopardo Nebuloso que revelou o Tigre para mim. Se ele tivesse se encontrado com meu irmão, aí poderíamos ter um problema ainda maior."
+    b "Mas foi o Leopardo-nebuloso que revelou o Tigre para mim. Se ele tivesse procurado a ajuda do meu irmão, aí poderíamos ter um problema ainda maior."
 
 # game/script/06.rpy:994
 translate ptbr s06_04_confess_e4f7dbf5:
@@ -1884,13 +1886,13 @@ translate ptbr s06_04_confess_e653d22b:
 translate ptbr s06_04_confess_1d8ffd31:
 
     # b "I took a deep breath and looked back to the computer."
-    b "Eu respirei fundo e olhei de volta para a tela do computador."
+    b "Eu respirei fundo e olhei de volta para a tela do computador. Onde é que estávamos?"
 
 # game/script/06.rpy:1046
 translate ptbr s06_04_confess_c502ab25:
 
     # b "...Right, Tiger was still looking through the forums."
-    b "...Certo, o Tigre ainda estava pesquisando nos fóruns."
+    b "...Certo, tava pesquisando pro Tigre nos fóruns..."
 
 # game/script/06.rpy:1048
 translate ptbr s06_04_confess_d6f57c74:
@@ -1923,4 +1925,5 @@ translate ptbr strings:
     # old "Confess."
     old "老實承認。"
     new "Confessar"
+
 
